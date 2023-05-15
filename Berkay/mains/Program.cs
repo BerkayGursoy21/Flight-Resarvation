@@ -41,7 +41,7 @@ namespace Berkay.mains
             catch (Exception)
             {
 
-                Console.WriteLine("\nhatalı değer girdiğiniz");
+                Console.WriteLine("\n HATALI GİRİŞ YAPTINIZ!");
                 Thread.Sleep(500);
 
             }
